@@ -1,2 +1,2 @@
 # Python-Data-Analysis-Library
-Importing this Library, I have solved a few sums, cleaned and visualized data to gain insights...
+Importing this Library, I have solved a few excercises in PANDAS
